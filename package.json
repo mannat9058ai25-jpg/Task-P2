@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/mannat9058ai25-jpg/Task-P2#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "@sendgrid/mail": "^8.1.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "resend": "^6.34.1"
   }
 }
